@@ -1,0 +1,11 @@
+('74463', 'Arin travels', 'dadabadi', '696969696', '69@gmail.com')
+ ('dw', 'dw', 'dw', 'dw', 'dw')
+ ('1', 'Curosity', 'JLN', '1234567890', 'curosity@gmail.com')
+ ('10', 'perseverance', 'Durgapura', '1111111111', 'perseverance@gmail.com')
+ ('3', 'checkers', 'jln marg', '5454545454', 'check@gmail.com')
+ ('1', 'sensitive', 'jln', '1234567890', 'sensitive@gmail.com')
+ ('11', 'check', 'juet', '7777777777', 'juet@gmail.com')
+ ('2121', 'volvo', 'jagatpura', '6969696696', 'xyz@gmail.com')
+ ('1111', 'volvo', 'jagat', '8181818181', 'ee@gmail.com')
+ ('1234', 'arin', 'f-98', '7373737373', 'yt@gmail.com')
+ 
